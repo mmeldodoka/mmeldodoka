@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/mmeldodoka/mmeldodoka/snake-output/snake.svg" alt="Snake animation" />
+
+###
